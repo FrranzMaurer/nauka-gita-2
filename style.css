@@ -1,3 +1,14 @@
+.jumbotron {
+	background-image: url(https://d-pt.ppstatic.pl/kadry/k/r/1/c0/f7/55aca6a646af4_o,size,969x565,q,71,h,50c9ad.jpg);
+	background-repeat: no-repeat;
+	background-position: center; 
+	min-height: 400px;
+}
+
+.singer {
+	color: white;
+}
+
 .verse {
-	padding: 0 auto;
+	border: 1px solid red;
 }
